@@ -3,12 +3,12 @@
 <p align="center">
     <img width="700px" src="./.github/assets/TizenBrew_Official_Banner.png">
     <br>
-    <sub> TizenBrew logo, banner and README by <a href="https://github.com/Zyborg777">@Zyborg777</a> </sub>
+    <sub> Logotipo, banner e README do TizenBrew por <a href="https://github.com/Zyborg777">@Zyborg777</a> </sub>
 </p>
 
-### Experience your favorite custom apps (such as [TizenTube](https://github.com/reisxd/TizenTube)) in a whole new way!
-Thanks to TizenBrew, you can install newer apps without having to deal with Tizen Studio multiple times. Just one click
-and you're done 🎊
+### Experimente seus aplicativos personalizados favoritos (como o [TizenTube](https://github.com/reisxd/TizenTube)) de uma maneira totalmente nova!
+Graças ao TizenBrew, você pode instalar aplicativos mais recentes sem ter que lidar com o Tizen Studio várias vezes. Apenas um clique
+e você terminou 🎊
 
 <p align="center">
     <a href="https://discord.gg/m2P7v8Y2qR">
@@ -46,9 +46,9 @@ and you're done 🎊
 </p>
 
 
-# 🙌 Getting started
+# 🙌 Começando
 
-### You can read the [guide](./docs/README.md) down below to get started with TizenBrew ⬇️
+### Você pode ler o [guia](./docs/README.md) abaixo para começar a usar o TizenBrew ⬇️
 <p align="left">
     <a href="./docs/README.md">
         <picture>
@@ -58,10 +58,10 @@ and you're done 🎊
     </a>
 </p>
 
-# 💻 Making a module
+# 💻 Fazendo um módulo
 
-You can read the [guide](./docs/MODULES.md) to make a module for TizenBrew.
+Você pode ler o [guia](./docs/MODULES.md) para criar um módulo para o TizenBrew.
 
-# 💬 Translations
+# 💬 Traduções
 
-You can read the [guide](./docs/TRANSLATION.md) to translate TizenBrew into your native language.
+Você pode ler o [guia](./docs/TRANSLATION.md) para traduzir o TizenBrew para seu idioma nativo.
